@@ -15,8 +15,8 @@ sidebar:
     # Sidebar links
     email: kunhee.jeong@gmail.com
     phone: 415 599 5334
-    linkedin: blog.webjeda.com #do not add http://
-    tableau public: alandoe
+    linkedin: www.linkedin.com/in/kun-hee-jeong/ #do not add http://
+    tableau public: https://public.tableau.com/app/profile/kenny.jeong/vizzes
     github: kennyhj
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -34,7 +34,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -133,22 +133,6 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
