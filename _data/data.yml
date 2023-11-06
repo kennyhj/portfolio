@@ -30,19 +30,27 @@ sidebar:
         - item: Gaming
           link: 
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: About Me
     summary: |
       Hi there! My name is Kenny, and I am an aspiring data analyst. 
+
 education:
     title: Education
     info:
       - degree: BA in International Studies - International Business
         university: University of California, San Diego
         time: 2018 - 2020
+        details: |
+          Completed a Bachelor of Arts in International Studies - International Business,
+          with a focus on East Asia. 
+            - Korean Studies Minor
+            - Provost Honors all quarters
+        
+      - degree: Google Data Analytics Coursera
+        university: 
+        time: 2023 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -51,6 +59,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            
       - degree: Certificate in Database Administration, Business Intelligence
         university: Ohlone College
         time: 2023 - 2024
@@ -83,30 +92,25 @@ education:
 #            - Bullet point
 
 
-certifications:
-      title: Certifications
-      list:
-        - name: Google Data Analytics Coursera
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+#certifications:
+#      title: Certifications
+#      list:
+#        - name: Google Data Analytics Coursera
+#          start: 2020
+#          end: 2021
+#          organization: Microsoft
+#          credentialid: 111-222
+#          credentialurl: www.google.com
+#          credentialname: Google
+#          details: |
+#            Details about cert. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+#            sem enim bibendum augue, sed convallis arcu lacus at dui.
+#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
@@ -127,26 +131,19 @@ projects:
         link: "#"
         tagline: "An analysis of pro players across all League of Legends World Championships"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: SQL
-        level: 98%
-
-      - name: Tableau
-        level: 98%
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python
+#        level: 98%
+#
+#      - name: SQL
+#        level: 98%
+#
+#      - name: Tableau
+#        level: 98%
 
 
 footer: >
