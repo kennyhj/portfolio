@@ -49,8 +49,8 @@ education:
             - Korean Studies Minor
             - Provost Honors all quarters
         
-      - degree: Google Data Analytics Coursera
-        university: 
+      - degree: COOP Data Analytics Apprenticeship
+        university: COOP
         time: 2023 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -92,27 +92,6 @@ education:
 #            - Bullet point
 #            - Bullet point
 
-
-#certifications:
-#      title: Certifications
-#      list:
-#        - name: Google Data Analytics Coursera
-#          start: 2020
-#          end: 2021
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: Google
-#          details: |
-#            Details about cert. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
@@ -120,7 +99,7 @@ projects:
     assignments:
       - title: Spotify
         link: "https://github.com/kennyhj/spotify2023"
-        tagline: "A analysis of the top streamed songs on Spotify in 2023."
+        tagline: "An exploratory analysis of the top streamed songs on Spotify in 2023."
 
       - title: Pokemon
         link: "#"
@@ -129,6 +108,20 @@ projects:
       - title: LoL Worlds
         link: "#"
         tagline: "An analysis of pro players across all League of Legends World Championships"
+
+certifications:
+      title: Certifications
+      list:
+        - name: Google Data Analytics
+          start: 2023
+          end: 2023
+          organization: Coursera
+          credentialid:
+          credentialurl: www.google.com
+          credentialname: 
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
 
 
 #skills:
