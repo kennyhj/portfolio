@@ -115,12 +115,11 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Take a look at some of my personal projects that I've been working on!
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Spotify
-        link: "#hook"
+        link: "#https://github.com/kennyhj/spotify2023"
         tagline: "A analysis of the top streamed songs on Spotify in 2023."
 
       - title: Pokemon
