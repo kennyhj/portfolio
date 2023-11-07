@@ -21,26 +21,36 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 
-    interests:
-      title: Interests
-      info:
-        - item: Music Production
-          link: 
-
-        - item: Gaming
-          link: 
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Music Production
+#          link: 
+#
+#        - item: Gaming
+#          link: 
 
 
 career-profile:
     title: About Me
     summary: |
-      Hi there! My name is Kenny, and I am an aspiring data analyst. 
+      Hi there, my name is Kenny, and in 2023 I decided to pivot my career goals toward becoming a data analyst!
+      I've been learning the foundational skills in Excel, SQL, Python, and Tableau through classes as well as personal projects.
+      I've also taken part in a data analytics apprenticeship program called COOP.
       Portfolio under construction...
 
 education:
     title: Education
     info:
-      - degree: BA in International Studies - International Business
+      - degree: COOP Data Analytics Apprenticeship
+        university: COOP Careers 
+        time: 2023 - 2023
+        details: |
+          Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development
+            - ~200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, and a final capstone project
+            - A highly selective program that admits underemployed college graduates from under resourced & marginalized communities
+        
+      - degree: BA in International Business
         university: University of California, San Diego
         time: 2018 - 2020
         details: |
@@ -48,30 +58,7 @@ education:
           with a focus on East Asia. 
             - Korean Studies Minor
             - Provost Honors all quarters
-        
-      - degree: COOP Data Analytics Apprenticeship
-        university: COOP
-        time: 2023 - 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
             
-      - degree: Certificate in Database Administration, Business Intelligence
-        university: Ohlone College
-        time: 2023 - 2024
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 #experiences:
 #    title: Experiences
@@ -101,28 +88,39 @@ projects:
         link: "https://github.com/kennyhj/spotify2023"
         tagline: "An exploratory analysis of the top streamed songs on Spotify in 2023."
 
-      - title: Pokemon
-        link: "#"
-        tagline: "A visualization project of all Pokemon from generations 1-9."
-
-      - title: LoL Worlds
-        link: "#"
-        tagline: "An analysis of pro players across all League of Legends World Championships"
+#      - title: Pokemon
+#        link: "#"
+#        tagline: "A visualization project of all Pokemon from generations 1-9."
+#
+#      - title: LoL Worlds
+#        link: "#"
+#        tagline: "An analysis of pro players across all League of Legends World Championships"
 
 certifications:
       title: Certifications
       list:
-        - name: Google Data Analytics
+        - name: Certificate in Database Administration & Certificate in Business Intelligence (in progress)
+          start: 2023
+          end: 2024
+          organization: Ohlone College
+          credentialid:
+          credentialurl:
+          credentialname: 
+          details: |
+            Relevant technical courses in Python, Oracle SQL, Tableau
+
+        - name: Google Data Analytics Professional Certificate
           start: 2023
           end: 2023
           organization: Coursera
           credentialid:
-          credentialurl: www.google.com
+          credentialurl: 
           credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-
+            An 8 course series on the fundamentals of data analysis:
+            - cleaning, transforming, analyzing, visualizing, & presenting data
+            - key skills with spreadsheets, SQL, Tableau, and R programming
+            
 
 #skills:
 #    title: Skills &amp; Proficiency
