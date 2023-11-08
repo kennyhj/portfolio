@@ -21,9 +21,9 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 
-#    interests:
-#      title: Interests
-#      info:
+    interests:
+      title: Interests
+      info:
 #        - item: Music Production
 #          link: 
 #
@@ -37,7 +37,8 @@ career-profile:
       Hi there, my name is Kenny, and in 2023 I decided to pivot my career goals toward becoming a data analyst!
       I've been learning the foundational skills in Excel, SQL, Python, and Tableau through classes as well as personal projects.
       I've also taken part in a data analytics apprenticeship program called COOP.
-      Portfolio under construction...
+      
+      Portfolio currently under construction!
 
 education:
     title: Education
@@ -99,7 +100,8 @@ projects:
 certifications:
       title: Certifications
       list:
-        - name: Certificate in Database Administration & Certificate in Business Intelligence (in progress)
+        - name: - Certificate in Database Administration (in progress)
+                - Certificate in Business Intelligence (in progress)
           start: 2023
           end: 2024
           organization: Ohlone College
@@ -107,7 +109,7 @@ certifications:
           credentialurl:
           credentialname: 
           details: |
-            Relevant technical courses in Python, Oracle SQL, Tableau
+            - Relevant technical courses in Python, Oracle SQL, Tableau
 
         - name: Google Data Analytics Professional Certificate
           start: 2023
