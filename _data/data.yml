@@ -96,7 +96,7 @@ projects:
 certifications:
       title: Certifications
       list:
-        - name: Certificate in Database Administration & Business Intelligence (in progress)
+        - name: Certificate in Database Administration & Business Intelligence
           start: 2023
           end: 2024
           organization: Ohlone College
@@ -104,6 +104,7 @@ certifications:
           credentialurl:
           credentialname: 
           details: |
+            - (in progress)
             - Relevant technical courses in Python, Oracle SQL, Tableau
 
         - name: Google Data Analytics Professional Certificate
