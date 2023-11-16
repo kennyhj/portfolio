@@ -22,16 +22,16 @@ sidebar:
 
 
     interests:
-      title: Interests
+      title:
       info:
-        - item: 
-          link:
+        - item: secret link!
+          link: https://www.youtube.com/channel/UCvIdw_ZK7CBtRF7_fDF7uLw
 
 
 career-profile:
     title: About Me
     summary: |
-      Hi there, my name is Kenny, and in 2023 I decided to pivot my career goals toward becoming a data analyst!
+      Hi there, my name is Kenny! In 2023 I decided to pivot my career goals toward becoming a data analyst!
       I've been learning the foundational skills in Excel, SQL, Python, and Tableau through classes as well as personal projects.
       I've also taken part in a data analytics apprenticeship program called COOP.
       - Portfolio currently under construction!
@@ -79,7 +79,7 @@ education:
 projects:
     title: Projects
     intro: >
-      Take a look at some of my personal projects that I've been working on!
+      Take a look at some of my personal projects
     assignments:
       - title: Spotify
         link: "https://github.com/kennyhj/spotify2023"
