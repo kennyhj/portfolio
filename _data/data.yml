@@ -24,8 +24,8 @@ sidebar:
     interests:
       title:
       info:
-        - item: secret link!
-          link: https://www.youtube.com/channel/UCvIdw_ZK7CBtRF7_fDF7uLw
+      #  - item: secret link!
+      #    link: https://www.youtube.com/channel/UCvIdw_ZK7CBtRF7_fDF7uLw
 
 
 career-profile:
