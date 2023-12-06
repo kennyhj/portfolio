@@ -24,14 +24,16 @@ sidebar:
     interests:
       title:
       info:
-      #  - item: secret link!
+      #  - item: secret link
       #    link: https://www.youtube.com/channel/UCvIdw_ZK7CBtRF7_fDF7uLw
 
 
 career-profile:
     title: About Me
     summary: |
-      Hi there, my name is Kenny! In 2023 I decided to pivot my career goals toward becoming a data analyst!
+      Hi there, my name is Kenny, and in 2023 I decided to pivot my career goals toward becoming a data analyst!
+      I started by enrolling in classes learning the foundational technical skills working with data in SQL, Python, and Tableau.
+      I also took part in a data analytics apprenticeship program throughout the latter half of 2023, where as
       I've been learning the foundational skills in Excel, SQL, Python, and Tableau through classes as well as personal projects.
       I've also taken part in a data analytics apprenticeship program called COOP.
       - Portfolio currently under construction!
@@ -43,18 +45,15 @@ education:
         university: COOP Careers 
         time: 2023 - 2023
         details: |
-          Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development
-            - ~200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, and a final capstone project
-            - A highly selective program that admits underemployed college graduates from under resourced & marginalized communities
+            Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development.
+            Roughly 200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, culminating in a final capstone project. 
+            A highly selective program that admits underemployed college graduates from under resourced & marginalized communities
         
       - degree: BA in International Business
         university: University of California, San Diego
         time: 2018 - 2020
         details: |
-          Completed a Bachelor of Arts in International Studies - International Business,
-          with a focus on East Asia. 
-            - Korean Studies Minor
-            - Provost Honors all quarters
+            Korean Studies Minor. Provost Honors all quarters.
             
 
 #experiences:
@@ -82,7 +81,7 @@ projects:
       Take a look at some of my personal projects
     assignments:
       - title: Spotify
-        link: "https://github.com/kennyhj/spotify2023"
+        link: "https://github.com/kennyhj/spotify2023/blob/main/spotify_notebook.ipynb"
         tagline: "An exploratory analysis of the top streamed songs on Spotify in 2023."
 
 #      - title: Pokemon
