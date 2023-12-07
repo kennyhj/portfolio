@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Kenny Jeong
@@ -45,15 +45,16 @@ education:
         university: COOP Careers 
         time: 2023 - 2023
         details: |
-            Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development.
-            Roughly 200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, culminating in a final capstone project. 
-            A highly selective program that admits underemployed college graduates from under resourced & marginalized communities
+            - Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development
+            - Roughly 200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, culminating in a final capstone project
+            - A highly selective program that admits underemployed college graduates from under resourced & marginalized communities
         
       - degree: BA in International Business
         university: University of California, San Diego
         time: 2018 - 2020
         details: |
-            Korean Studies Minor. Provost Honors all quarters.
+            - Korean Studies Minor
+            - Provost Honors all quarters.
             
 
 #experiences:
