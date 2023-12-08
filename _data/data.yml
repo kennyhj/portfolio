@@ -79,7 +79,7 @@ education:
 projects:
     title: Projects
     intro: >
-      Take a look at some of my personal projects
+      Here are some of my personal projects
     assignments:
       - title: Spotify
         link: "https://github.com/kennyhj/spotify2023/blob/main/spotify_notebook.ipynb"
