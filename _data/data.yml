@@ -43,7 +43,7 @@ education:
     info:
       - degree: COOP Data Analytics Apprenticeship
         university: COOP Careers 
-        time: 2023 - 2023
+        time: Aug 2023 - Dec 2023
         details: |
             - Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development
             - Roughly 200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, culminating in a final capstone project
@@ -51,7 +51,7 @@ education:
         
       - degree: BA in International Business
         university: University of California, San Diego
-        time: 2018 - 2020
+        time: Sep 2018 - Jun 2020
         details: |
             - Korean Studies Minor
             - Provost Honors all quarters.
@@ -81,7 +81,7 @@ projects:
     intro: >
       Here are some of my personal projects
     assignments:
-      - title: Spotify Top Songs 2023
+      - title: Spotify Top Songs
         link: "https://github.com/kennyhj/spotify2023/blob/main/spotify_notebook.ipynb"
         tagline: "An exploratory analysis of the top streamed songs on Spotify in 2023."
         details: |
@@ -89,7 +89,7 @@ projects:
             - Pandas, matplotlib, seaborn, numpy
             - Analyzed key trends in top songs to draw conclusions on what kind of songs perform well
 
-      - title: NYPD Arrests in 2021
+      - title: NYPD Arrests 2021
         link: "https://github.com/kennyhj/nypd_arrests_2021/blob/main/NYPD%20ARRESTS%20Case%20Study.pdf"
         tagline: "A case study analyzing the NYPD's arrests in 2021"
         details: |
@@ -105,8 +105,8 @@ certifications:
       title: Certifications
       list:
         - name: Certificate in Database Administration & Business Intelligence
-          start: 2023
-          end: 2024
+          start: Jun 2023
+          end: Jun 2024
           organization: Ohlone College
           credentialid:
           credentialurl:
@@ -116,8 +116,8 @@ certifications:
             - Relevant technical courses in Python, Oracle SQL, Tableau
 
         - name: Google Data Analytics Professional Certificate
-          start: 2023
-          end: 2023
+          start: Aug 2023
+          end: Nov 2023
           organization: Coursera
           credentialid:
           credentialurl: 
