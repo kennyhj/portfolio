@@ -32,9 +32,9 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi there, I go by Kenny, and in 2023 I decided to pivot my career goals toward becoming a data analyst.
-      First I started by enrolling in classes at Ohlone College, learning foundational technical skills in data: SQL, Python, and Tableau.
-      In the latter half of 2023, I took part in a data analytics apprenticeship program called COOP, where I've been able to gain valuable experience in handling large datasets
+      Hi there, my name is Kenny, and my goal is to break into the data analytics field.
+      In 2023 I decided to go back to school, enrolling in Ohlone College, working on an associate degree in database administration as well as earning a certificate in business analytics.
+      In the latter half of 2023, I took part in a data analytics apprenticeship program called COOP, where I've been able to gain valuable project experience in handling large datasets
       with Excel, SQL, Python, and Tableau. It's been a fun journey so far, and I plan on continuing to develop my expertise through projects to be featured here on this portfolio!
 
 education:
@@ -47,8 +47,16 @@ education:
             - Engaged in a 16-week apprenticeship program, acquiring expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau, alongside continuous professional development
             - Roughly 200 hours of instruction time with a hands-on mastery of data tools, communication training, networkings, culminating in a final capstone project
             - A highly selective program that admits underemployed college graduates from under resourced & marginalized communities
+
+      - degree: Associate's in Database Administration
+        university: Ohlone College 
+        time: Jun 2023 - Expected Jun 2025
+        details: |
+            - + Certificate in Business Analytics
+            - Relevant courses in Python, Oracle SQL, Business Intelligence
+    
         
-      - degree: BA in International Business
+      - degree: Bachelor of Arts in International Business
         university: University of California, San Diego
         time: Sep 2018 - Jun 2020
         details: |
