@@ -112,29 +112,29 @@ projects:
 certifications:
       title: Certifications
       list:
-        - name: Certificate in Database Administration & Business Intelligence
-          start: Jun 2023
-          end: Jun 2024
-          organization: Ohlone College
-          credentialid:
-          credentialurl:
-          credentialname: 
-          details: |
-            - (in progress)
-            - Relevant technical courses in Python, Oracle SQL, Tableau
-
         - name: Google Data Analytics Professional Certificate
           start: Aug 2023
           end: Dec 2023
           organization: Coursera
           credentialid:
-          credentialurl: 
+          credentialurl: https://www.credly.com/badges/685786d3-b48b-4a96-b1f7-a975be77fdf8/linked_in_profile
           credentialname: 
           details: |
             An 8 course series on the fundamentals of data analysis:
             - cleaning, transforming, analyzing, visualizing, & presenting data
             - key skills with spreadsheets, SQL, Tableau, and R programming
-            
+
+        - name: Machine Learning Foundations
+          start: Sep 2023
+          end: Dec 2023
+          organization: AWS Academy
+          credentialid:
+          credentialurl: https://www.credly.com/badges/c1b21dc1-e017-4823-b466-3b415a15c3f1/linked_in_profile
+          credentialname: 
+          details: |
+            - Introduction to machine learning
+            - AWS Cloud Computing Services
+            - Python
 
 #skills:
 #    title: Skills &amp; Proficiency
