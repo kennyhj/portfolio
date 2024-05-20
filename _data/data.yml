@@ -32,10 +32,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi there, my name is Kenny, and my goal is to break into the data analytics field.
-      In 2023 I decided to go back to school, enrolling in Ohlone College, working on an associate degree in database administration as well as earning a certificate in business analytics.
-      In the latter half of 2023, I took part in a data analytics apprenticeship program called COOP, where I've been able to gain valuable project experience in handling large datasets
-      with Excel, SQL, Python, and Tableau. It's been a fun journey so far, and I plan on continuing to develop my expertise through projects to be featured here on this portfolio!
+      Hi there, my name is Kenny, and my goal is to break into the data analytics field! A newer portfolio can be found here: https://www.datascienceportfol.io/kennyjeong
 
 education:
     title: Education
