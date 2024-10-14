@@ -1,4 +1,4 @@
-# Portfolio
+# Kenny Jeong
 
 ### Education
 Education Example 1
