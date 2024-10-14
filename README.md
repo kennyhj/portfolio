@@ -1,5 +1,3 @@
-# Kenny Jeong
-
 ### Education
 Education Example 1
 - University
