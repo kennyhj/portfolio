@@ -1,3 +1,5 @@
+# Projects
+
 ## [NYPD Historic Arrests](repolink)
 [image](linktoimage)
 - Exploratory analysis of historic nypd arrest data (2006-2023)
