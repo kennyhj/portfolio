@@ -1,7 +1,7 @@
 # Projects
 
 ## [NYPD Historic Arrests](https://github.com/kennyhj/nypd_arrests/tree/main)
- <img src = "/images/nypd%20logo.jpg" width = "400">
+ <img src = "images/nypd%20logo.jpg" width = "400">
  
 - MySQL, Tableau
 - Exploratory analysis of historic nypd arrest data (2006-2023)
