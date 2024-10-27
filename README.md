@@ -19,7 +19,7 @@ Final Conclusions:
 - Jupyter Notebook, Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Exploratory data analysis of the top streamed Spotify songs of 2023
 - Finding patterns in the top streamed songs to find the characteristics we need to make a viral song
-- Dataset from [kaggle](link)
+- Dataset from [kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 - Analyzed: top streamed songs, artists, keys, modes, release years, song qualities, bpm, and playlists
 
 <img src = "images/top10_streamed_songs.jpg" width = "600">
