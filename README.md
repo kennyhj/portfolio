@@ -1,6 +1,6 @@
 # Projects
 
-## [NYPD Historic Arrests](https://github.com/kennyhj/nypd_arrests/tree/main)
+## [NYPD Historic Arrests](https://github.com/kennyhj/nypd_arrests)
  <img src = "images/nypd%20logo.jpg" width = "250">
  
 - MySQL, Tableau
